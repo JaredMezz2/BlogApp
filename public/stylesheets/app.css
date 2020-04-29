@@ -1,0 +1,14 @@
+/* Resize blog icon top left */
+i.icon.outline {
+	font-size: 2em;
+}
+
+/* Add margin to container */
+.container.main {
+	margin-top: 5em;
+}
+
+/* Delete button beside edit */
+#delete {
+	display: inline;
+}
